@@ -7,7 +7,7 @@ I'm a .NET Backend Developer focused on building backend applications and RESTfu
 ---
 
 ## Technical Skills
---
+
 **Languages & Frameworks:** C#, .NET, ASP.NET Core Web API, Entity Framework Core, LINQ
 
 **Databases:** SQL Server, MySQL
