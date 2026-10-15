@@ -1,4 +1,4 @@
-## Mohamed Elsayed:<br><br>
+## Mohamed Elsayed:
 #### Software Engineer | Backend Developer | ASP.NET Core Web API<br><br>:
 I'm a .NET Backend Developer focused on building backend applications and RESTful APIs using C#, ASP.NET Core Web API, Entity Framework Core, and SQL Server. I'm continuously improving my skills through practical projects and learning software design principles.<br><br>
 ## Technical Skills:
