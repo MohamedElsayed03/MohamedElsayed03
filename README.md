@@ -1,17 +1,20 @@
-## Mohamed Elsayed:
-#### Software Engineer | Backend Developer | ASP.NET Core Web API:
-I'm a .NET Backend Developer focused on building backend applications and RESTful APIs using C#, ASP.NET Core Web API, Entity Framework Core, and SQL Server. I'm continuously improving my skills through practical projects and learning software design principles.<br><br>
-### Technical Skills: 
-#### Languages & Frameworks: 
-C#, .NET, ASP.NET Core Web API, Entity Framework Core, LINQ
-#### Databases:
-SQL Server,  MySQL<br><br>
-#### DevOps & Tools: 
-Git, GitHub, .NET CLI , Postman<br><br>
-#### Core Concepts:
-Clean Architecture, SOLID , Design Patterns ,OOP
+# Mohamed Elsayed
 
+**Software Engineer | Backend Developer | ASP.NET Core Web API**
 
+I'm a .NET Backend Developer focused on building backend applications and RESTful APIs using C#, ASP.NET Core Web API, Entity Framework Core, and SQL Server. I'm continuously improving my skills through practical projects and learning software design principles.
+
+---
+
+## Technical Skills
+--
+**Languages & Frameworks:** C#, .NET, ASP.NET Core Web API, Entity Framework Core, LINQ
+
+**Databases:** SQL Server, MySQL
+
+**DevOps & Tools:** Git, GitHub, .NET CLI, Postman
+
+**Core Concepts:** Clean Architecture, SOLID, Design Patterns, OOP
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-elsayed-603b622b1/?isSelfProfile=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mo7amed0518@gmail.com) 
 
