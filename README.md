@@ -1,5 +1,16 @@
-# 💫 About Me:
-Mohamed Elsayed<br><br>Junior .NET Backend Developer | ASP.NET Core Web API<br><br>I'm a .NET Backend Developer focused on building backend applications and RESTful APIs using C#, ASP.NET Core Web API, Entity Framework Core, and SQL Server. I'm continuously improving my skills through practical projects and learning software design principles.<br><br>Technical Skills<br><br>Languages & Frameworks: C#, .NET, ASP.NET Core Web API, Entity Framework Core, LINQ<br><br>Databases: SQL Server,  MySQL<br><br>DevOps & Tools: Git, GitHub, .NET CLI , Postman<br><br>Core Concepts:  Clean Architecture, SOLID , Design Patterns ,OOP
+## Mohamed Elsayed:
+<br><br>
+# Software Engineer | Backend Developer | ASP.NET Core Web API<br><br>:
+I'm a .NET Backend Developer focused on building backend applications and RESTful APIs using C#, ASP.NET Core Web API, Entity Framework Core, and SQL Server. I'm continuously improving my skills through practical projects and learning software design principles.<br><br>
+## Technical Skills:
+<br><br>
+# Languages & Frameworks: 
+C#, .NET, ASP.NET Core Web API, Entity Framework Core, LINQ<br><br>
+# Databases:
+SQL Server,  MySQL<br><br>
+# DevOps & Tools: 
+Git, GitHub, .NET CLI , Postman<br><br>
+# Core Concepts:  Clean Architecture, SOLID , Design Patterns ,OOP
 
 
 ## 🌐 Socials:
