@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on building backend projects using ASP.NET Core Web API.<br><br>👯 I'm looking to collaborate on .NET backend projects and open-source projects.<br><br>🌱 I've learned C#, OOP, LINQ, Entity Framework Core, SQL Server, and ASP.NET Core Web API. I'm currently improving my skills in software architecture and backend development.<br><br>💬 Ask me about C#, ASP.NET Core Web API, Entity Framework Core, LINQ, and SQL Server.<br><br>⚡ Fun fact: I enjoy solving problems and turning my knowledge into real-world projects.
+Mohamed Elsayed<br><br>Junior .NET Backend Developer | ASP.NET Core Web API<br><br>I'm a .NET Backend Developer focused on building backend applications and RESTful APIs using C#, ASP.NET Core Web API, Entity Framework Core, and SQL Server. I'm continuously improving my skills through practical projects and learning software design principles.<br><br>Technical Skills<br><br>Languages & Frameworks: C#, .NET, ASP.NET Core Web API, Entity Framework Core, LINQ<br><br>Databases: SQL Server,  MySQL<br><br>DevOps & Tools: Git, GitHub, .NET CLI , Postman<br><br>Core Concepts:  Clean Architecture, SOLID , Design Patterns ,OOP
 
 
 ## 🌐 Socials:
